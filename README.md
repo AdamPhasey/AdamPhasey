@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamPhasey
-- 👀 I’m interested in software development
-- 📫 You can reach me on LinkedIn or twitter (username: AdamPhasey)
+- 👀 I am a Software Developer
+- 📫 You can reach me on LinkedIn & Twitter (username: AdamPhasey)
 
 <!---
 AdamPhasey/AdamPhasey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
