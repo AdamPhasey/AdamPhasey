@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdamPhasey
-- 👀 I am a Software Developer
+- 👀 I am a Full-Stack Engineer
 - 📫 You can reach me on LinkedIn & Twitter (username: AdamPhasey)
 
 <!---
